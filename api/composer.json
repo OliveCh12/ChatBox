@@ -1,0 +1,19 @@
+{
+    "name": "abrahamibo/apiChatRoom",
+    "authors": [
+        {
+            "name": "abrahamibo",
+            "email": "abraham.ibo@hetic.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ChatRoomApi\\Controller\\": "Controller/",
+            "ChatRoomApi\\Helper\\": "Helper/",
+            "ChatRoomApi\\Model\\": "Model/"
+        },
+        "files": [
+            "parameter.php"
+        ]
+    }
+}
