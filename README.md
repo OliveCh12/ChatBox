@@ -1,2 +1,3 @@
-# ChatBox
-ChatRoom IESA Multimédia B3
+# Chatbox (IESA B3)
+
+## Procédure et commencement.
